@@ -602,5 +602,5 @@ Now that we've examined all three approaches, let's compare them side-by-side.
 
 - **[Best Practices for PyTorch](best-practices.md)**: General PyTorch CUDA Graph best practices
 - **[PyTorch Integration](torch-integration.md)**: Understanding the underlying PyTorch CUDA Graph APIs
-- **[Examples](../examples/introduction.md)**: See CUDA Graphs in action with RNN-T, Stable Diffusion, Llama 3.1 405B, and DeepSeek-V3 671B
+- **[Examples](../examples/introduction.md)**: See CUDA Graphs in action with RNN-T, Stable Diffusion, Llama 3.1 405B, DeepSeek-V3 671B, and GPT-OSS 20B
 - **[Megatron Core Documentation](https://docs.nvidia.com/megatron-core/developer-guide/latest/index.html)**: Official Megatron Core developer guide

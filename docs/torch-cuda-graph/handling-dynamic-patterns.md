@@ -1023,7 +1023,7 @@ With sync-free dispatch and device-initiated grouped GEMM, dynamic token counts 
 ## What's Next?
 
 - **[Quick Checklist](quick-checklist.md)**: Complete checklist to verify your code is ready for capture
-- **[Examples](../examples/introduction.md)**: Real-world implementations in RNN-T, Stable Diffusion, Llama 3.1 405B, and DeepSeek-V3 671B
+- **[Examples](../examples/introduction.md)**: Real-world implementations in RNN-T, Stable Diffusion, Llama 3.1 405B, DeepSeek-V3 671B, and GPT-OSS 20B
 - **[Troubleshooting](../troubleshooting/introduction.md)**: Comprehensive guide for debugging capture failures, silent failures, memory errors, and performance issues
 - **[Constraints](../cuda-graph-basics/constraints.md)**: Full list of CUDA Graph restrictions
 - **[PyTorch-Specific Constraints](torch-integration.md#pytorch-specific-constraints)**: PyTorch requirements
