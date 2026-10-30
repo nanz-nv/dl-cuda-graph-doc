@@ -256,6 +256,7 @@ Monitor iteration time, peak allocated and reserved GPU memory, host memory use,
 
 **Explore more CUDA graph examples**:
 
+- **[GPT-OSS 20B](gpt-oss-20b.md)** - Dropless small MoE with full-iteration graphing and no paged stashing
 - **[Llama 3.1 405B](llama-31-405b.md)** - Full-iteration graphing for a dense transformer
 - **[GPT-3 175B](gpt-3-175b.md)** - Per-layer graphing with pipeline parallelism and FP8
 

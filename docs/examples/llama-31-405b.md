@@ -610,6 +610,7 @@ The Llama 3.1 405B CUDA graph implementation demonstrates practical deployment o
 **Explore more examples**:
 
 - [DeepSeek-V3 671B](deepseek-v3-paged-stash.md) - Full-iteration graphing for dropless MoE with device-initiated grouped GEMM and paged stashing
+- [GPT-OSS 20B](gpt-oss-20b.md) - Full-iteration graphing for a dropless small MoE without paged stashing
 - [Stable Diffusion v2](stable-diffusion-v2.md) - Another full-iteration graphing example with PyTorch Lightning
 - [Llama 2 70B LoRA](llama2-70b-lora.md) - LoRA fine-tuning with per-layer CUDA graphs
 - [GPT-3 175B](gpt-3-175b.md) - Large-scale training with Megatron-LM
